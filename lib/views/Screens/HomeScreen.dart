@@ -228,7 +228,7 @@ class _HomeScreenState extends State<HomeScreen> {
   AppBar get _appbar_main => AppBar(
         centerTitle: true,
         title: Text(
-          "PKR Fake Check Guide",
+          "PKR Fake Note Guide",
           style: TextStyle(
               fontSize: 18, fontWeight: FontWeight.w600, fontFamily: "Inter"),
         ),
