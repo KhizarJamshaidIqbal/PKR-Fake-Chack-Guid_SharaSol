@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.cruency_note_app">
+    <uses-permission android:name="android.permission.INTERNET"/>
    <application
         android:label="PKR Fake Check Guide"
         android:name="${applicationName}"
